@@ -62,9 +62,9 @@ int main() {
 	cout << "\n";
 
 	//F4 G: classRoster.remove("A3");
-
 	cout << "\n";
 	cout << "Trying to remove Student with ID A3, will throw error\n";
 	classRoster->remove("A3");
+
 	return 0;
 }
